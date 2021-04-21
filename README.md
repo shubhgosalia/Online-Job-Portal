@@ -1,6 +1,9 @@
 # Online-Job-Portal
 Java Console based Online Job Portal<br/>
-#### Features:<br/>
+
+----------------------------------------
+----------------------------------------
+### Features:<br/>
 -Job Post Add\
 -Job Apply\
 -Job Search & Display\
